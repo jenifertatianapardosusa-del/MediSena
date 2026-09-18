@@ -1,0 +1,10 @@
+[
+    {
+        "id_cita": "",
+        "paciente": "Tatiana",
+        "especialidad": "Odontologia",
+        "medico_asignado": "Mateo",
+        "costo_consulta": 5000.0,
+        "es_urgencia": true
+    }
+]
